@@ -7,7 +7,7 @@ Welcome to the official educational hub of **Apex IS Strategy**. This space is a
 ---
 
 ## 🏛️ Mission & Vision
-Our mission is to empower the next generation of technical talent by providing high-fidelity resources refined through **20+ years of experience** in Business Intelligence, Healthcare IT, and Enterprise Systems.
+Our mission is to empower the next generation of technical talent by providing high-fidelity resources refined through **30+ years of experience** in Business Intelligence, Healthcare IT, and Enterprise Systems.
 
 We believe that successful digital transformation requires more than just code—it requires **Architectural Excellence**, **Scalability**, and **Data Integrity**.
 
