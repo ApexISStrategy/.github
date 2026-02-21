@@ -1,8 +1,8 @@
-# Apex IS Strategy Education 🎓
-
 <p align="center">
   <img src="images/apexisstrategy-education-transparent-logo-1472x704.png" alt="Apex IS Strategy Education" width="400">
 </p>
+
+# Apex IS Strategy Education 🎓
 
 ### Bridging the Gap Between Enterprise Strategy and Technical Execution.
 
