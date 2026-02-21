@@ -1,5 +1,9 @@
 # Apex IS Strategy Education 🎓
 
+<p align="center">
+  <img src="images/apexisstrategy-education-transparent-logo-1472x704.png" alt="Apex IS Strategy Education" width="400">
+</p>
+
 ### Bridging the Gap Between Enterprise Strategy and Technical Execution.
 
 Welcome to the official educational hub of **Apex IS Strategy**. This space is a curated library of production-ready labs, architectural patterns, and data engineering tutorials designed for students, professionals, and system architects.
